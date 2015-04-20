@@ -1,3 +1,3 @@
 # java
 
-This is my repo of Java codes.
+This is my repository of Java codes.
